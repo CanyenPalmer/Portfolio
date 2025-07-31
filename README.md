@@ -88,6 +88,7 @@ Key Techniques and Tools:
 - Assessed multiple predictors including `foundation`, `condition_1`, `condition_2`, and `sale_condition` using linear regression.
 - **Model Evaluation**: 
 - Used `yardstick::rmse_vec()` to compare prediction accuracy via **Root Mean Square Error (RMSE)**.
+
 #### Data Handling: 
 Interpreted over 60 numeric and categorical predictors, including physical features, zoning codes, and home attributes.
 
