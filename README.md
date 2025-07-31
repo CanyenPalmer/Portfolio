@@ -61,7 +61,7 @@ It was discovered that the company still awaits payment for over **50% ($317,000
 This can occur from billing errors, patients not making payments, waiting transfer balances, and/or more.
 That means currently, the company's successful payment ratio is roughly = **'56:100'**
 
-**55%** of all invoices issued in the *Ubited States are paid late*, with **22%** of business owners not expecting late payment incidents to cease in the near future
+**55%** of all invoices issued in the *United States are paid late*, with **22%** of business owners not expecting late payment incidents to cease in the near future
 This can dampen financial stability and can create permanently lost funds over time (more expenses = more profit lost)
 
 **Calculated Totals:**
