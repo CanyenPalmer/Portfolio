@@ -35,10 +35,10 @@
 #### Skills and Techniques: 
 Statistical Hypothesis Testing, Feature Engineering, Machine Learning, Object Oriented Programming (OOP), Tableau Software, Data Visualization, Sampling (Statistics), Statistical Analysis, Regression Analysis, Exploratory Data Analysis
 
-Logistic Regression:
+**Logistic Regression:**
 - The logistic regression model achieved a precision of 80%, recall of 83%, f1-score of 80% (all weighted averages), and an accuracy of 83%, on the test set.
 
-Tree-based Machine Learning
+**Tree-based Machine Learning**
 - After conducting feature engineering, the decision tree model achieved AUC of 93.8%, precision of 87.0%, recall of 90.4%, f1-score of 88.7%, and an accuracy of 96.2% on the test set. The random forest modestly outperformed the decision tree model.
 
 ![Google Capstone](/assets/img/google.jpg)
@@ -46,24 +46,25 @@ Tree-based Machine Learning
 ### Patient Responsibility & Billing Analytics Automation
 [Publication][(https://github.com/CanyenPalmer/CGM-Patient-Analytics)](https://github.com/CanyenPalmer/CGM-Patient-Analytics)
 
-Tools: Python, Pandas, Excel, OpenPyXL
+Tools: `Python`, `Pandas`, `Excel`, `OpenPyXL`
 
-Developed a Python-based analytics solution to streamline billing insights for CGM-related procedures. The script extracts and processes data from an Excel file to identify patient responsibility by filtering for HCPCS codes A4239 and E2103. Using pandas, it cleans financial fields, calculates patient responsibility (Allowed Amount – Payments), and organizes key billing data into a structured report. Additionally, the script generates a dynamic monthly summary that groups patient responsibility by individual and service date. Outputs include:
+Developed a Python-based analytics solution to streamline billing insights for CGM-related procedures. The script extracts and processes data from an Excel file to identify patient responsibility by filtering for HCPCS codes **A4239** and **E2103**. Using `pandas`, it cleans financial fields, calculates patient responsibility (Allowed Amount – Payments), and organizes key billing data into a structured report. Additionally, the script generates a dynamic monthly summary that groups patient responsibility by individual and service date. Outputs include:
 
 -Detailed Report with sortable, patient-level billing rows and a total summary
 -Pivoted Monthly Responsibility Report showing trends over time
 
-Both reports are exported to a formatted Excel workbook with separate sheets, enhancing visibility for finance and care teams. Using OpenPyXL, I was able to produce the outputs in a consolidated Excel file. This project demonstrates proficiency in healthcare data analysis, Excel automation, and building reproducible reporting tools that reduce manual effort and improve billing transparency.
+Both reports are exported to a formatted Excel workbook with separate sheets, enhancing visibility for finance and care teams. Using `OpenPyXL`, I was able to produce the outputs in a consolidated Excel file. This project demonstrates proficiency in healthcare data analysis, Excel automation, and building reproducible reporting tools that reduce manual effort and improve billing transparency.
 
 #### Conclusions
-It was discovered that the company still awaits payment for over 50% ($317,000) of their expected funds in Patient Responsibility assets alone. Out of all CGM patients, the company needs 44% ($245,000) of payments to be recieved even after the patient has been billed.
+It was discovered that the company still awaits payment for over **50% ($317,000)** of their expected funds in `Patient Responsibility` assets alone. Out of all **CGM patients**, the company needs **44% ($245,000)** of payments to be recieved even after the patient has been billed.
 
 This can occur from billing errors, patients not making payments, waiting transfer balances, and/or more.
-That means currently, the company's successful payment ratio is roughly = '56:100'
+That means currently, the company's successful payment ratio is roughly = **'56:100'**
 
-55% of all invoices issued in the US are paid late, with 22% of business owners not expecting late payment incidents to cease in the near future
+**55%** of all invoices issued in the *Ubited States are paid late*, with **22%** of business owners not expecting late payment incidents to cease in the near future
 This can dampen financial stability and can create permanently lost funds over time (more expenses = more profit lost)
-Calculated Totals:
+
+**Calculated Totals:**
 
 - Patient Responsibility Total = 317k
 - Invoice Detail Charge Total = 602k
