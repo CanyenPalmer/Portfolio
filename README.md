@@ -76,7 +76,7 @@ Calculated Totals:
 ### R coding | Real-estate Conditions Comparison: Real Estate Price Modeling in Ames, TX
 [Publication][(https://github.com/CanyenPalmer/R-Coding---Real-estate-Conditions-Comparrison)](https://github.com/CanyenPalmer/R-Coding---Real-estate-Conditions-Comparrison)
 
-As part of a recent applied statistics and modeling project, I developed a predictive model to analyze housing market conditions in Ames, Texas. Using a rich dataset with over **2,300 observations** and **over 60 features**, this project focused on identifying the most significant predictors of **home sale prices** through exploratory data analysis and regression modeling.
+As part of a recent applied statistics and modeling project, I developed a predictive model to analyze housing market conditions in Ames, Texas. Using a rich dataset with over **2,300 observations** and **60+ features**, this project focused on identifying the most significant predictors of **home sale prices** through exploratory data analysis and regression modeling.
 
 Key Techniques and Tools:
 
