@@ -66,7 +66,7 @@ Calculated Totals:
 - Invoice Detail Payments = 245k
 - Invoice Detail Balance = 201k
 
-![CGM Patients](/assets/img/google_capstone.jpg)
+![CGM Patients](/assets/img/cgm.jpg)
 
 ### R coding | Real-estate Conditions Comparison: Real Estate Price Modeling in Ames, TX
 [Publication][(https://github.com/CanyenPalmer/R-Coding---Real-estate-Conditions-Comparrison)](https://github.com/CanyenPalmer/R-Coding---Real-estate-Conditions-Comparrison)
