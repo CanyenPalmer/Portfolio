@@ -56,12 +56,12 @@ Developed a Python-based analytics solution to streamline billing insights for C
 Both reports are exported to a formatted Excel workbook with separate sheets, enhancing visibility for finance and care teams. Using `OpenPyXL`, I was able to produce the outputs in a consolidated Excel file. This project demonstrates proficiency in healthcare data analysis, Excel automation, and building reproducible reporting tools that reduce manual effort and improve billing transparency.
 
 #### Conclusions
-It was discovered that the company still awaits payment for over **50% ($317,000)** of their expected funds in `Patient Responsibility` assets alone. Out of all **CGM patients**, the company needs **44% ($245,000)** of payments to be recieved even after the patient has been billed.
+It was discovered that the company still awaits payment for **over 50% ($317,000)** of their expected funds in `Patient Responsibility` assets alone. Out of all **CGM patients**, the company needs **44% ($245,000)** of payments to be recieved even after the patient has been billed.
 
 This can occur from billing errors, patients not making payments, waiting transfer balances, and/or more.
 That means currently, the company's successful payment ratio is roughly = **'56:100'**
 
-**55%** of all invoices issued in the *United States are paid late*, with **22%** of business owners not expecting late payment incidents to cease in the near future
+**55%** of all invoices issued in the *United States are paid late*, with **22%** of business owners not expecting late payment incidents to cease in the near future.
 This can dampen financial stability and can create permanently lost funds over time (more expenses = more profit lost)
 
 **Calculated Totals:**
