@@ -50,8 +50,8 @@ Tools: `Python`, `Pandas`, `Excel`, `OpenPyXL`
 
 Developed a Python-based analytics solution to streamline billing insights for CGM-related procedures. The script extracts and processes data from an Excel file to identify patient responsibility by filtering for HCPCS codes **A4239** and **E2103**. Using `pandas`, it cleans financial fields, calculates patient responsibility (Allowed Amount – Payments), and organizes key billing data into a structured report. Additionally, the script generates a dynamic monthly summary that groups patient responsibility by individual and service date. Outputs include:
 
--Detailed Report with sortable, patient-level billing rows and a total summary
--Pivoted Monthly Responsibility Report showing trends over time
+- Detailed Report with sortable, patient-level billing rows and a total summary
+- Pivoted Monthly Responsibility Report showing trends over time
 
 Both reports are exported to a formatted Excel workbook with separate sheets, enhancing visibility for finance and care teams. Using `OpenPyXL`, I was able to produce the outputs in a consolidated Excel file. This project demonstrates proficiency in healthcare data analysis, Excel automation, and building reproducible reporting tools that reduce manual effort and improve billing transparency.
 
