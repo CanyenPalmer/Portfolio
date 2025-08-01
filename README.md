@@ -29,6 +29,57 @@
 - Showcase my findings throughout a 'blog' like website to contribute back to the community of data science
 
 ## Projects
+
+### MyCaddy | Elemental Factoring for Yardage Calculations
+
+**My Caddy Distance** is a precision golf shot calculator that models real-world conditions to deliver highly accurate carry distance estimates. Built for all levels of golfers—from beginners learning club confidence to professionals fine-tuning for competitive rounds—this tool helps players understand how environmental factors affect each shot.
+
+#### What It Does
+
+My Caddy Distance takes in player-defined inputs such as:
+
+- Distance to the flag
+- Lie condition (e.g., fairway, rough, buried)
+- Temperature (°F)
+- Weather (sunny, cloudy, rain, snow)
+- Wind direction and speed
+- Shot direction
+- Optional flyer lie (adds a projected distance range)
+
+Based on these values, it calculates an **adjusted carry distance** using aerodynamic formulas, environmental physics, and lie-based modifiers.
+
+#### Key Features
+
+- Fully interactive **web application** built with Python (Flask)
+- **Themed UI** styled to reflect clarity and professionalism
+- Core logic extracted to a standalone module (`my_caddy_core.py`)
+- Using `calculations.py` only and running will allow local hosting for desktop application
+- Support for “flyer lies” with projected low/high yardage range
+- Accessible for golfers of all experience levels
+- Hosted publicly via Render
+
+#### How It Works
+
+The program simulates how temperature, wind, and lie conditions affect the effective carry distance of a golf ball using simplified aerodynamic principles. It applies:
+
+- Temperature adjustments (~0.3% per °F deviation from 70°F)
+- Wind impact based on angle and speed
+- Carry reduction for different lie conditions (0–100%)
+- Realistic flyer range adjustments (+5% to +12%)
+
+#### Live Demo
+
+[Launch the Web App](https://my-caddy-distance.onrender.com)
+
+#### Source Code
+
+[GitHub Repository](https://github.com/CanyenPalmer/MyCaddy)
+
+#### License
+
+This project is released under the MIT License.
+
+
 ### Capstone: Google Advanced Data Analytics
 [Publication][(https://github.com/CanyenPalmer/Logistic-Regression-and-Tree-based-Machine-Learning)](https://github.com/CanyenPalmer/Logistic-Regression-and-Tree-based-Machine-Learning)
 
