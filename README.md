@@ -75,7 +75,7 @@ The program simulates how temperature, wind, and lie conditions affect the effec
 
 #### License
 
-This project is released under the MIT License.
+This project is released under the rights of @Palmer Projects. All copyright ownership belongs to Canyen Palmer
 
 
 ### Capstone: Google Advanced Data Analytics
