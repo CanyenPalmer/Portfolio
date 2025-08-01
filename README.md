@@ -23,7 +23,7 @@
 - Integrated eVendor and drop-shipping systems into Brightree, lowering delivery expenses by 30%.
 - Developed "kits" in Brightree, reducing processing time within the ordering cycle and increasing overall profit margins.
 
-**CEO/Data Scientist @ Palmer Projects (_May 2024 - Present_)**
+**CEO/Data Scientist @ Palmer Projects (_May 2023 - Present_)**
 - Work with volunteer services to create better patient outcomes through data 
 - Engineer data models for small businesses/large corporations baised on their current inititaves
 - Showcase my findings throughout a 'blog' like website to contribute back to the community of data science
