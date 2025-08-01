@@ -51,7 +51,8 @@ Based on these values, it calculates an **adjusted carry distance** using aerody
 
 #### Key Features
 
-- Fully interactive **web application** built with Python (Flask)
+- Fully interactive **web application** built with Python (`Flask`)
+- Packages: `math` and `tkinker`
 - **Themed UI** styled to reflect clarity and professionalism
 - Core logic extracted to a standalone module (`my_caddy_core.py`)
 - Using `calculations.py` only and running will allow local hosting for desktop application
