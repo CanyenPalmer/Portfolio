@@ -31,6 +31,7 @@
 ## Projects
 
 ### MyCaddy | Elemental Factoring for Yardage Calculations
+[Publication][(https://github.com/CanyenPalmer/MyCaddy])(https://github.com/CanyenPalmer/MyCaddy)
 
 **My Caddy Distance** is a precision golf shot calculator that models real-world conditions to deliver highly accurate carry distance estimates. Built for all levels of golfers—from beginners learning club confidence to professionals fine-tuning for competitive rounds—this tool helps players understand how environmental factors affect each shot.
 
@@ -71,9 +72,6 @@ The program simulates how temperature, wind, and lie conditions affect the effec
 
 [Launch the Web App](https://my-caddy-distance.onrender.com)
 
-#### Source Code
-
-[GitHub Repository](https://github.com/CanyenPalmer/MyCaddy)
 
 #### License
 
