@@ -77,6 +77,8 @@ The program simulates how temperature, wind, and lie conditions affect the effec
 
 This project is released under the rights of @PalmerProjects, all copyright ownership belongs to Canyen Palmer
 
+![MyCaddy](/assets/img/rangefinder.jpg)
+
 
 ### Capstone: Google Advanced Data Analytics
 [Publication][(https://github.com/CanyenPalmer/Logistic-Regression-and-Tree-based-Machine-Learning)](https://github.com/CanyenPalmer/Logistic-Regression-and-Tree-based-Machine-Learning)
