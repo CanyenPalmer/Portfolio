@@ -38,17 +38,17 @@
 - Multi-interface, physics-based shot distance calculator developed to help golfers make data-driven club selections by modeling the true impact of environmental and surface conditions. It dynamically adjusts shot carry distances based on lie severity, temperature, wind direction and speed, and weather-related drag—all through an intuitive web or desktop interface.
 
 #### Built using Python, the platform incorporates:
-- Flask (web backend)
-- tkinter (desktop GUI)
-- Gunicorn (production server)
-- Jinja2 and CSS media queries for responsive design
+- `Flask` (web backend)
+- `tkinter` (desktop GUI)
+- `Gunicorn` (production server)
+- `Jinja2` and `CSS` media queries for responsive design
 
 #### Analytical Techniques:
 - Vector-based wind modeling to determine effective wind angle vs. shot direction
 - Temperature-density adjustment using linear scaling (±0.3% per °F from 70°F)
 - Weather drag mapping (e.g., Rain: -4%, Snow: -8%)
 - Lie severity adjustment reduces carry by up to 40%
-- Flyer lies in simulation with a confidence range of 88–95% of base distance
+- Flyer lies in simulation with a confidence range of **88–95%** of base distance
 
 #### Features:
 - Accurate, real-time distance correction with flyer mode
@@ -62,10 +62,10 @@
 - Professionals/coaches simulating conditions for strategic prep
 
 #### Measurable Impact:
-- Improves distance prediction accuracy by 20–30% in rough lies
-- Reduces directional shot errors by 7–12 yards with wind modeling
-- Corrects temperature-influenced carry by up to 5 yards
-- Enables better club choice decisions—up to 15% more accurately
+- Improves distance prediction accuracy by **20–30%** in rough lies
+- Reduces directional shot errors by **7–12 yards** with wind modeling
+- Corrects temperature-influenced carry by up to **5 yards**
+- Enables better club choice decisions—up to **15% more accurately**
 
 Based on these values, it calculates an **adjusted carry distance** using aerodynamic formulas, environmental physics, and lie-based modifiers.
 
