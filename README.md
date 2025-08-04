@@ -33,6 +33,8 @@
 
 ### MyCaddy | Physics-Based Golf Shot Calculator
 [Publication][(https://github.com/CanyenPalmer/MyCaddy)](https://github.com/CanyenPalmer/MyCaddy)
+#### Live Demo
+[Launch the Web App][(https://my-caddy-distance.onrender.com)](https://mycaddy.onrender.com/)
 
 *About Us:*
 - Multi-interface, physics-based shot distance calculator developed to help golfers make data-driven club selections by modeling the true impact of environmental and surface conditions. It dynamically adjusts shot carry distances based on lie severity, temperature, wind direction and speed, and weather-related drag—all through an intuitive web or desktop interface.
@@ -58,11 +60,6 @@
 - Reduced wind-related shot error by **7–12 yards**  
 - Adjusted temperature-influenced carry by **up to 5 yards**  
 - Increased club selection accuracy by **up to 15%**
-
-#### Live Demo
-
-[Launch the Web App][(https://my-caddy-distance.onrender.com)](https://mycaddy.onrender.com/)
-
 
 #### License
 
