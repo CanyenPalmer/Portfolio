@@ -33,7 +33,7 @@
 ### CEO / Data Scientist – Palmer Projects *(May 2023 – Present)*
 - Collaborate with nonprofit and commercial teams to improve decisions through custom data tools.
 - Build and deploy predictive models aligned with business strategy.
-- Share findings through a public-facing portfolio to support the `Data Science` community.
+- Share findings through a public-facing portfolio to support the Data Science community.
 
 ---
 
