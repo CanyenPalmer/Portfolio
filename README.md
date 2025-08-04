@@ -31,43 +31,33 @@
 
 ## Projects
 
-### MyCaddy | Multi-interface Distance Calculator
+### MyCaddy | Physics-Based Golf Shot Calculator
 [Publication][(https://github.com/CanyenPalmer/MyCaddy)](https://github.com/CanyenPalmer/MyCaddy)
 
 *About Us:*
 - Multi-interface, physics-based shot distance calculator developed to help golfers make data-driven club selections by modeling the true impact of environmental and surface conditions. It dynamically adjusts shot carry distances based on lie severity, temperature, wind direction and speed, and weather-related drag—all through an intuitive web or desktop interface.
+**Python · Flask · Data Modeling · Web App & Desktop GUI**
 
-#### Built using Python, the platform incorporates:
-- `Flask` (web backend)
-- `tkinter` (desktop GUI)
-- `Gunicorn` (production server)
-- `Jinja2` and `CSS` media queries for responsive design
+#### Overview  
+**MyCaddy** addresses the demand for an affordable, accurate tool to model real-world shot conditions—empowering beginners to build confidence and professionals to refine strategy. It simulates the impact of wind, temperature, weather, and lie severity on carry distance using physics-based calculations and vector math. The platform is available in both web and desktop formats.
 
-#### Analytical Techniques:
-- Vector-based wind modeling to determine effective wind angle vs. shot direction
-- Temperature-density adjustment using linear scaling (±0.3% per °F from 70°F)
-- Weather drag mapping (e.g., Rain: -4%, Snow: -8%)
-- Lie severity adjustment reduces carry by up to 40%
-- Flyer lies in simulation with a confidence range of **88–95%** of base distance
+#### Key Techniques  
+- Vector-based wind modeling (shot direction vs. wind angle)  
+- Temperature-density scaling (±0.3% per °F from 70°F)  
+- Weather drag adjustments (e.g., rain: −4%, snow: −8%)  
+- Lie severity carry penalties (up to 40%)  
+- Flyer lie simulation with 88–95% confidence intervals
 
-#### Features:
-- Accurate, real-time distance correction with flyer mode
-- Mobile-first UI with collapsible inputs
-- Desktop support for offline use
-- Zero-latency feedback and summary display
+#### Tech Stack  
+- **Backend**: Python, Flask, Gunicorn  
+- **Frontend**: Jinja2, CSS (responsive UI), tkinter (desktop GUI)  
+- **Hosting**: Render
 
-#### Target Users:
-- Beginners learning shot mechanics and environmental effects
-- Amateurs refining club selection with quantified factors
-- Professionals/coaches simulating conditions for strategic prep
-
-#### Measurable Impact:
-- Improves distance prediction accuracy by **20–30%** in rough lies
-- Reduces directional shot errors by **7–12 yards** with wind modeling
-- Corrects temperature-influenced carry by up to **5 yards**
-- Enables better club choice decisions—up to **15% more accurately**
-
-Based on these values, it calculates an **adjusted carry distance** using aerodynamic formulas, environmental physics, and lie-based modifiers.
+#### Impact  
+- Improved carry prediction by **20–30%** in rough lies  
+- Reduced wind-related shot error by **7–12 yards**  
+- Adjusted temperature-influenced carry by **up to 5 yards**  
+- Increased club selection accuracy by **up to 15%**
 
 #### Live Demo
 
