@@ -70,17 +70,44 @@
 ![MyCaddy](/assets/img/rangefinder.jpg)
 
 
-### Capstone: Google Advanced Data Analytics
+### Google Advanced Data Analytics Capstone: Salifort Motors | Employee Attrition Prediction
 [Publication][(https://github.com/CanyenPalmer/Logistic-Regression-and-Tree-based-Machine-Learning)](https://github.com/CanyenPalmer/Logistic-Regression-and-Tree-based-Machine-Learning)
 
-#### Skills and Techniques: 
-Statistical Hypothesis Testing, Feature Engineering, Machine Learning, Object Oriented Programming (OOP), Tableau Software, Data Visualization, Sampling (Statistics), Statistical Analysis, Regression Analysis, Exploratory Data Analysis
+#### Certification  
+[View Certification][(https://www.coursera.org/account/accomplishments/professional-cert/certificate/GLIO99TYNKY8)](https://www.coursera.org/account/accomplishments/professional-cert/certificate/GLIO99TYNKY8)
 
-**Logistic Regression:**
-- The logistic regression model achieved a precision of 80%, recall of 83%, f1-score of 80% (all weighted averages), and an accuracy of 83%, on the test set.
+*Project Design:*  
+- End-to-end machine learning pipeline designed to help Salifort Motors identify employees at risk of leaving the company. This project enables the HR department to take proactive, data-informed actions to improve retention and workplace satisfaction.  
+**Python · scikit-learn · pandas · EDA · Logistic Regression · Tree-Based Classification**
 
-**Tree-based Machine Learning**
-- After conducting feature engineering, the decision tree model achieved AUC of 93.8%, precision of 87.0%, recall of 90.4%, f1-score of 88.7%, and an accuracy of 96.2% on the test set. The random forest modestly outperformed the decision tree model.
+#### Tech Stack  
+- **Data Handling**: pandas, NumPy  
+- **Modeling**: scikit-learn, XGBoost  
+- **Visualization**: seaborn, matplotlib  
+- **Development Environment**: Jupyter Notebook
+
+#### Overview  
+This capstone project addresses a real business problem: predicting employee attrition using HR data. With 15,000 employee records from a public dataset, the objective was to determine the key drivers of employee turnover and construct classification models to predict who is likely to leave the company. This helps Salifort Motors reduce costly turnover and better understand employee engagement factors.
+
+#### Key Techniques  
+- Exploratory data analysis (EDA) for trends, correlations, and class imbalance  
+- Feature selection and preprocessing of numeric and categorical variables  
+- Logistic Regression as a baseline model  
+- Decision Tree, Random Forest, and XGBoost classifiers for performance comparison  
+- Model evaluation via accuracy, precision, recall, F1 score, confusion matrix, and ROC curve  
+- Feature importance analysis to interpret predictors of attrition
+
+#### Tech Stack  
+- **Data Handling**: pandas, NumPy  
+- **Modeling**: scikit-learn, XGBoost  
+- **Visualization**: seaborn, matplotlib  
+- **Development Environment**: Jupyter Notebook
+
+#### Impact  
+- Achieved classification accuracy of up to **94%** using XGBoost  
+- Identified key predictors of attrition including **satisfaction level**, **evaluation score**, and **number of projects**  
+- Provided HR with interpretable and actionable insights to reduce employee turnover  
+- Delivered a replicable framework for ongoing internal workforce analysis
 
 ![Google Capstone](/assets/img/google.jpg)
 
@@ -134,18 +161,12 @@ Key Techniques and Tools:
 #### Data Handling: 
 Interpreted over 60 numeric and categorical predictors, including physical features, zoning codes, and home attributes.
 
-#### Why It Matters:
+#### Broader Impact:
 This project bridges statistical theory with real-world business intelligence. The predictive modeling framework developed here can be extended to:
 
 - Valuation models for residential and commercial real estate.
 - Feature selection in complex, multi-variable environments.
 - Price optimization and trend forecasting in dynamic markets.
 
-#### Broader Impact:
-This hands-on experience reinforces my ability to:
-
-- Transform raw data into actionable insights.
-- Build and validate interpretable machine learning models.
-- Communicate technical results to drive decision-making—skills that are vital in any data science or analytics role
 
 ![Real-Estate](/assets/img/real_estate.jpg)
