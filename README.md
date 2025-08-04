@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Resume: [(https://2d7974f8-5fa5-4136-aaa2-354b07c4877e.filesusr.com/ugd/a966b5_607988010ce7434bb13636f14f4fa8e1.pdf)](https://2d7974f8-5fa5-4136-aaa2-354b07c4877e.filesusr.com/ugd/a966b5_607988010ce7434bb13636f14f4fa8e1.pdf)
+#### Resume: [(https://2d7974f8-5fa5-4136-aaa2-354b07c4877e.filesusr.com/ugd/a966b5_d8e418714fc148a69ee20224d2504475.pdf)](https://2d7974f8-5fa5-4136-aaa2-354b07c4877e.filesusr.com/ugd/a966b5_d8e418714fc148a69ee20224d2504475.pdf)
 #### Proficiency: Python, R, Tableau
 #### Familiarities: ARM Assembly, Jes, SQL, Power BI, AI
 #### Tech Stack: Pandas/NumPy, Scipy, seaborn, Matplotlib, statsmodels, Tidyverse, Git, Jupyter, CSV/Excel, Quarto(.qmd)
