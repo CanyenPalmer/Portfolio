@@ -2,7 +2,7 @@
 
 #### Resume: [(https://2d7974f8-5fa5-4136-aaa2-354b07c4877e.filesusr.com/ugd/a966b5_d8e418714fc148a69ee20224d2504475.pdf)](https://2d7974f8-5fa5-4136-aaa2-354b07c4877e.filesusr.com/ugd/a966b5_d8e418714fc148a69ee20224d2504475.pdf)
 #### Proficiency: Python, R, Tableau
-#### Familiarities: ARM Assembly, Jes, SQL, Power BI, AI
+#### Familiarities: SQL, Jes, Power BI
 #### Tech Stack: Pandas/NumPy, Scipy, seaborn, Matplotlib, statsmodels, Tidyverse, Git, Jupyter, CSV/Excel, Quarto(.qmd)
 
 ## Education
