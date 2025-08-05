@@ -122,7 +122,7 @@ Script automates billing insights saving **200+** hours by filtering `HCPCS` cod
 
 #### Impact
 - Identified **$317,000** in unpaid patient responsibility  
-- Found **44%** of CGM patients had unpaid balances  
+- Found **44%** of CGM patients had unpaid balances, saving the company *thousands* 
 - Highlighted **$245,000** still uncollected  
 - Diagnosed a **56:100** payment success ratio
 
@@ -145,9 +145,10 @@ Used *2,300+ observations* and *60+ variables* to build a predictive model of ho
 - Evaluation using `yardstick::rmse_vec()`
 
 #### Impact
-- Built interpretable model for real estate price forecasting  
-- Demonstrated cross-domain modeling expertise in `R`  
-- Applicable to pricing, valuation, and market analysis
+- Explained over **88%** of the variance in housing prices using a `Generalized Linear Model (GLM)` applied to the Ames Housing dataset, demonstrating strong model fit and predictive reliability.
+- Identified *above-ground living area* and *neighborhood* as the top two drivers of sale price, contributing to more than **60%** of total model influence, enabling targeted pricing strategies for real estate professionals.
+- Revealed that a finished basement adds **~$10K–$20K** in value on average, providing actionable insights for investors prioritizing renovations.
+- Empowers *non-technical* stakeholders with interpretable visualizations (coefficient plots, residual diagnostics), bridging statistical output and business decision-making.
 
 ![Real-Estate](/assets/img/real_estate.jpg)
 
