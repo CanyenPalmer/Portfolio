@@ -1,6 +1,6 @@
 # Data Scientist Portfolio
 
-#### Resume: [My Data Scientist Resume](https://2d7974f8-5fa5-4136-aaa2-354b07c4877e.filesusr.com/ugd/a966b5_9b5ee692db00467f9b11ba99d706aee5.pdf)
+#### Resume: [My Data Scientist Resume](https://2d7974f8-5fa5-4136-aaa2-354b07c4877e.filesusr.com/ugd/a966b5_ee205cad4f7a48ada8639c39ccdfb223.pdf)
 #### Proficiency: Python, R, Tableau  
 #### Familiarities: SQL, Jes, Power BI  
 #### Tech Stack: pandas, NumPy, SciPy, seaborn, matplotlib, statsmodels, tidyverse, Git, Jupyter, Quarto, Excel
