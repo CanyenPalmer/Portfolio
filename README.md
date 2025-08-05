@@ -30,10 +30,11 @@
 - Integrated `eVendor` and drop-shipping into `Brightree`, cutting delivery costs by **30%**.
 - Built product "kits" to reduce cycle time by **25%** and improve profit margins.
 
-### CEO / Data Scientist – Palmer Projects *(May 2023 – Present)*
+### CEO / Data Scientist – [Palmer Projects](https://palmerprojects.renderforestsites.com/#comp-18b70f7dba2) *(May 2023 – Present)*
 - Collaborate with nonprofit and commercial teams to improve decisions through custom data tools.
 - Build and deploy predictive models aligned with business strategy.
 - Share findings through a public website blog to support the Data Science community.
+
 
 ---
 
