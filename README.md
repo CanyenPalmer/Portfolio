@@ -23,7 +23,7 @@
 - Automated ordering processes, reducing operational time by **50%**.
 - Designed dashboards that increased procurement efficiency by **37%**.
 - Uncovered **$30,000+** in unpaid CGM patient balances using `Python`.
-- Conducted trend analysis on 100+ diabetic supplies/solutions to identify new revenue channels.
+- Conducted trend analysis on **100+** diabetic supplies/solutions to identify new revenue channels.
 
 ### Billing/Revenue Specialist – Iconic Care Inc *(May 2025 – June 2025)*
 - Developed pricing tables and consignment structures that increased billing success by **65%**.
