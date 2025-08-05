@@ -112,7 +112,7 @@ Analyzed *15,000 records* to build classifiers that predict whether an employee 
 **Tools:** `Python`, `pandas`, `Excel`, `OpenPyXL`
 
 #### Overview
-Script automates billing insights by filtering `HCPCS` codes and calculating patient responsibility from Excel exports.
+Script automates billing insights saving **200+** hours by filtering `HCPCS` codes and calculating patient responsibility from Excel exports.
 
 #### Features
 - Filters for codes `A4239` and `E2103`  
