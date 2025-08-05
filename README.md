@@ -1,6 +1,6 @@
 # Data Scientist Portfolio
 
-#### Resume: [View PDF](https://2d7974f8-5fa5-4136-aaa2-354b07c4877e.filesusr.com/ugd/a966b5_d8e418714fc148a69ee20224d2504475.pdf)  
+#### Resume: [My Data Scientist Resume](https://2d7974f8-5fa5-4136-aaa2-354b07c4877e.filesusr.com/ugd/a966b5_d8e418714fc148a69ee20224d2504475.pdf)  
 #### Proficiency: Python, R, Tableau  
 #### Familiarities: SQL, Jes, Power BI  
 #### Tech Stack: pandas, NumPy, SciPy, seaborn, matplotlib, statsmodels, tidyverse, Git, Jupyter, Quarto, Excel
@@ -19,21 +19,21 @@
 
 ### Lead Analyst – Iconic Care Inc *(June 2025 – Present)*
 - Created financial forecasts identifying **$75,000+** in projected savings using data modeling and visualization.
-- Deployed predictive models and automated workflows to accelerate product readiness and improve decision-making.
+- Deployed predictive models with 90% accuracy and automated workflows to accelerate product readiness/improve decision-making.
 - Automated ordering processes, reducing operational time by **50%**.
 - Designed dashboards that increased procurement efficiency by **37%**.
 - Uncovered **$30,000+** in unpaid CGM patient balances using `Python`.
-- Conducted trend analysis to identify new revenue channels.
+- Conducted trend analysis on 100+ diabetic supplies/solutions to identify new revenue channels.
 
 ### Billing/Revenue Specialist – Iconic Care Inc *(May 2025 – June 2025)*
 - Developed pricing tables and consignment structures that increased billing success by **65%**.
 - Integrated `eVendor` and drop-shipping into `Brightree`, cutting delivery costs by **30%**.
-- Built product "kits" to reduce cycle time and improve profit margins.
+- Built product "kits" to reduce cycle time by **25%** and improve profit margins.
 
 ### CEO / Data Scientist – Palmer Projects *(May 2023 – Present)*
 - Collaborate with nonprofit and commercial teams to improve decisions through custom data tools.
 - Build and deploy predictive models aligned with business strategy.
-- Share findings through a public-facing portfolio to support the Data Science community.
+- Share findings through a public website blog to support the Data Science community.
 
 ---
 
@@ -53,8 +53,8 @@ Simulates environmental effects on golf shots. Built for both beginners and prof
 #### Key Techniques
 - Vector-based wind modeling  
 - Temperature-density scaling (±0.3% per °F from 70°F)  
-- Weather drag (e.g., rain: −4%, snow: −8%)  
-- Lie severity carry penalties (up to 40%)  
+- Weather drag (e.g., rain: −4%)  
+- Lie severity carry distance penalties (up to 40%)  
 - Flyer lie simulation (88–95% confidence)
 
 #### Tech Stack
