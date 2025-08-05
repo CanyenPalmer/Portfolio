@@ -19,7 +19,7 @@
 
 ### Lead Analyst – Iconic Care Inc *(June 2025 – Present)*
 - Created financial forecasts identifying **$75,000+** in projected savings using data modeling and visualization.
-- Deployed predictive models with 90% accuracy and automated workflows to accelerate product readiness/improve decision-making.
+- Deployed predictive models with **90%** accuracy and automated workflows to accelerate product readiness/improve decision-making.
 - Automated ordering processes, reducing operational time by **50%**.
 - Designed dashboards that increased procurement efficiency by **37%**.
 - Uncovered **$30,000+** in unpaid CGM patient balances using `Python`.
